@@ -1,0 +1,3 @@
+RewriteEngine On
+#-------------------------------------------------------------------------------------------
+RewriteRule ^api/sys/test?$			api/sys/api-test.php [QSA]
